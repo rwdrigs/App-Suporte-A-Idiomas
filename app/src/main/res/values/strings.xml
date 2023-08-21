@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app-suporte-idiomas</string>
+    <string name="hello_world" translatable="false">Olá Mundo</string>
+</resources>
